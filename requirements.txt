@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-dotenv
+anthropic
+openai
+twilio
+gspread
+google-auth
+apscheduler
+python-multipart
